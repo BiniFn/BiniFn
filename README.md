@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on: My 365-Days-Challenge and improving my multimedia projects like TubeGems.<br><br>👯 I’m looking to collaborate on: Open-source web development projects involving TypeScript or Python.<br><br>🤝 I’m looking for help with: Deepening my understanding of complex logic in JavaScript and Python—I'm always a student!<br><br>🌱 I’m currently learning: Advanced TypeScript and refining my Lua skills for game logic.<br><br>💬 Ask me about: Web development, light novels, or what it's like to start coding as a kid.<br><br>⚡ Fun fact: I’ve been writing code for over half my life, but I still feel like there's a whole world of things I haven't mastered yet!
+🔭 **Currently working on:** Personal projects and trying out new ideas.
+
+👯 **Open to collaborating on:** Open-source projects, especially with TypeScript and Python.
+
+🤝 **Looking for help with:** Writing cleaner code and getting better at problem-solving.
+
+🌱 **Currently learning:** TypeScript, Python, and Lua.
+
+💬 **Ask me about:** Web development, light novels, anime, or game development.
+
+⚡ **Fun fact:** I've been coding for years and still learn something new every time I build a project.
 
 
 ## 🌐 Socials:
